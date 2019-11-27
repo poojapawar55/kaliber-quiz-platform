@@ -29,7 +29,6 @@
 		<module>kaliber-quiz-play</module>
 		<module>kaliber-user-management</module>
 		<module>kaliber-webapplication</module>
-		<module>kaliber-semanticservice</module>
 		<module>kaliber-leaderboard</module>
 	</modules>
 
